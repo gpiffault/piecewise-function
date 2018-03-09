@@ -1,0 +1,22 @@
+{
+  "name": "piecewise-function",
+  "version": "1.0.0",
+  "description": "A piecewise function factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpiffault/piecewise-function.git"
+  },
+  "keywords": [
+    "piecewise"
+  ],
+  "author": "Grégoire Piffault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpiffault/piecewise-function/issues"
+  },
+  "homepage": "https://github.com/gpiffault/piecewise-function"
+}
